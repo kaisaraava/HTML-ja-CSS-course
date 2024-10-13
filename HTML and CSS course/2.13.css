@@ -1,0 +1,10 @@
+#highlight {
+    color: #000000;
+    background: rgba(0, 0, 255, 0.1);
+    /* #FF0000; rgb(255,0,0); red */
+    /* #00FF00; green rgb(0,255,0);  */
+    /* #0000FF; blue rgb(0,0,255); */
+  }
+  .green {
+    background-color: blue;
+  }
